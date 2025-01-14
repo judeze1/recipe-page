@@ -25,8 +25,8 @@ Download the starter code and go through the README.md file. This will provide f
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://github.com/judeze1/recipe-page
+- Live Site URL: https://fastidious-recipe-page.netlify.app/
 
 ## My process
 Worked on Desktop first view down to Mobile version, structured my HTML tags before going down to css and it was fast and cool.
